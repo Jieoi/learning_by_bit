@@ -1,1 +1,3 @@
 "# learning_by_bit" 
+
+Instead of training everything in one go, sometimes, it could be better if training was done in stages...
